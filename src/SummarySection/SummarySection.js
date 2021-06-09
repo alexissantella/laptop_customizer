@@ -1,7 +1,7 @@
 import React from 'react';
 import SummaryCart from '../SummaryCart/SummaryCart';
 import SummaryTotal from '../SummaryTotal/SummaryTotal';
-import './SummarySection.css';
+
 
 class SummarySection extends React.Component {
   render() {
