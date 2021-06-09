@@ -3,7 +3,7 @@ import slugify from 'slugify';
 import FEATURES from '../FEATURES';
 import FeatureItem from '../FeatureItem/FeatureItem';
 import FeatureOptions from '../FeatureOptions/FeatureOptions';
-import './FeatureList.css';
+
 
 class FeaturesList extends React.Component {
   render() {
